@@ -11,7 +11,7 @@
 4. Now [DEPLOY](http://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer)
 
 
-      <a href="https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+      <a href="https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=purple"/></a>
      
 ### [tutorial video](http://t.me/SL_AlphaX_Team/19)
 
