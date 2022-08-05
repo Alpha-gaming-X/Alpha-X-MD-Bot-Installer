@@ -23,7 +23,8 @@
     
      
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=ALPHA-X-MD+Alpha--team)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=ALPHA+X+MD+bot+by+Alpha-X-team)](https://git.io/typing-svg)
+
 
  
      
