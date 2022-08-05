@@ -1,13 +1,6 @@
-First scan [QRcode](http://replit.com/@AlphaXteam/Alpha-X-MD-Bot-QR)
- 
-Second [fork](https://github.com/Alpha-gaming-X/Alpha-X-MD-Bot-Installer/fork)
+> [⚠️ **Fork**](https://github.com/SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer/fork) this Repo and copy link. Then visit to [**This Page**](https://hansakabro.tk/Heroku-Redirect) and past your link >> Click on **Deploy Now**
 
-CREATE TABLE fonts (
-	"family" varchar(50) NOT NULL,
-	css varchar(1200000) NOT NULL,
-	fetch_date date NOT NULL,
-	CONSTRAINT fonts_pkey PRIMARY KEY (family)
-);
+
 
 
 
