@@ -22,6 +22,8 @@
    ### `thanks for all...💞`
     
      
+     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=ALPHA-X-MD+Alpha--team)](https://git.io/typing-svg)
 
  
      
