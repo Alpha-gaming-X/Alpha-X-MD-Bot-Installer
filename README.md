@@ -15,10 +15,12 @@
      
 ### [tutorial video](http://t.me/SL_AlphaX_Team/19)
 
-## thanks for all...
+  ### [WEBSITE](http://alpha-x.ml) 
 
-   ### [WEBSITE](http://alpha-x.ml) 
+    
    
+   ### `thanks for all...💞`
+    
      
 
  
